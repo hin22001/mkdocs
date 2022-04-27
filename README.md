@@ -9,8 +9,6 @@
 #### 3. Access mkdocs website with below URL
     http://localhost:8000
 
----
-
 ## Pipeline design
 
 The pipeline is designed to build a docker image to deliver the product and deploy to a server that available to run docker image.
